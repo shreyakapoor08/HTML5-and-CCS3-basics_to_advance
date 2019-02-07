@@ -1,0 +1,17 @@
+p {
+    background-color: rebeccapurple;
+    color: #fff;
+}
+
+.lead{
+    background-color: teal;
+}
+
+#intro{
+    background-color: tomato;
+    font-size: 2em;
+}
+
+#intro span{
+    background-color: yellow;
+}

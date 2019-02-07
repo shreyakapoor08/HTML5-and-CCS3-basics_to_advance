@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#first{
+    margin: 10px;
+    padding: 10px;
+    background-color: aqua;
+    
+}
+
+#second{
+    margin: 10px;
+    padding: : 10px;
+    background-color: antiquewhite;
+}
+
+#third{
+    margin: 20px;
+    padding: 20px;
+    background-color: burlywood;
+}
